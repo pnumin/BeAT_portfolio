@@ -26,5 +26,5 @@ python -m http.server 8000
 
 ## 연결된 프로젝트
 
-- 업다운 게임: https://github.com/pnumin/updown1114
+- 업다운 게임: https://pnumin.github.io/updown1114/
 - 대학 등록금 분석: https://university-tuition-dashboard.vercel.app/?view=compare
